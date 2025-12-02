@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-12-02T19:15:27.716Z",
-  "count": 91,
+  "generatedAt": "2025-12-02T19:19:33.712Z",
+  "count": 92,
   "links": [
     {
       "id": "2ce57a77-b221-4b33-a147-5de5ef4ed0ac",
@@ -1145,6 +1145,18 @@
       ],
       "createdAt": "2025-09-27T02:14:15.359Z",
       "lastUpdated": "2025-12-02T14:16:02.067Z"
+    },
+    {
+      "id": "5279a738-e585-4fe1-a784-1a7d7ca70ae6",
+      "title": "jq",
+      "url": "https://jqlang.org/",
+      "host": "jqlang.org",
+      "description": "jq is a lightweight and flexible command-line JSON processor",
+      "image": "https://jqlang.org/icon.png",
+      "logo": "https://jqlang.org/icon.svg",
+      "tags": [],
+      "createdAt": "2025-12-02T19:19:05.795Z",
+      "lastUpdated": "2025-12-02T19:19:13.140Z"
     },
     {
       "id": "64879072-e66b-4b2b-a3a4-7ca3e6b569c9",
