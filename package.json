@@ -1,0 +1,14 @@
+{
+  "name": "capacities-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch and extract link details from Capacities.io",
+  "main": "fetch-capacities.js",
+  "type": "module",
+  "scripts": {
+    "start": "node fetch-capacities.js",
+    "build": "node build.js"
+  },
+  "keywords": ["capacities", "api", "links"],
+  "author": "",
+  "license": "MIT"
+}

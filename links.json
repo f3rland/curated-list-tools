@@ -1,0 +1,1246 @@
+{
+  "generatedAt": "2025-12-02T14:17:15.201Z",
+  "count": 91,
+  "links": [
+    {
+      "id": "2ce57a77-b221-4b33-a147-5de5ef4ed0ac",
+      "title": "Gemini CLI - Build, debug & deploy with AI",
+      "url": "https://geminicli.com/",
+      "host": "geminicli.com",
+      "description": "",
+      "image": "https://geminicli.com/assets/social-poster.png",
+      "logo": "https://geminicli.com/favicon.ico",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "fb855e1e-5b78-489a-93ea-7d93b76f7ac7"
+      ],
+      "createdAt": "2025-10-31T11:52:10.785Z",
+      "lastUpdated": "2025-12-02T14:16:07.287Z"
+    },
+    {
+      "id": "70ebffef-4900-4b95-be1b-c7d62344a551",
+      "title": "MicroCloud — open source scalable cloud solution | Canonical",
+      "url": "https://canonical.com/microcloud",
+      "host": "canonical.com",
+      "description": "MicroClouds offer a lightweight and automated solution for edge clouds and scaleable scale private clouds. Best of open source cloud infrastructure co...",
+      "image": "https://assets.ubuntu.com/v1/c797f1d7-og_%20canonical.png",
+      "logo": "https://assets.ubuntu.com/v1/f38b9c7e-COF%20apple-touch-icon.png",
+      "tags": [
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed"
+      ],
+      "createdAt": "2025-11-05T11:29:14.474Z",
+      "lastUpdated": "2025-12-02T14:16:05.864Z"
+    },
+    {
+      "id": "6163b6d6-e9aa-4aba-83c4-cc4415b149c7",
+      "title": "This chrome extension changed how I feed data to NotebookLM (and all my AI tools)",
+      "url": "https://www.xda-developers.com/myndo-chrome-extension-notebooklm/",
+      "host": "www.xda-developers.com",
+      "description": "This tiny tool fixed my biggest AI workflow pain point.",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/notebooklm-on-an-ipad-1.jpg",
+      "logo": "https://static0.xdaimages.com/assets/images/favicon-240x240.43161a66.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-07-04T22:56:44.669Z",
+      "lastUpdated": "2025-12-02T14:16:13.037Z"
+    },
+    {
+      "id": "ed093147-8bfc-4eab-87b5-3a59a1a5ff2a",
+      "title": "LLMWare AI for Complex Enterprises",
+      "url": "https://llmware.ai/",
+      "host": "llmware.ai",
+      "description": "Pioneering AI Tools Built for Financial, Legal, Compliance, and Regulatory-Intensive Industries in Private Cloud. Innovative End-to-End Solution from ...",
+      "image": "https://framerusercontent.com/assets/C58gt7FG2GB3sLUE3wlthuVZOr0.png",
+      "logo": "https://framerusercontent.com/images/Jj6RCzXIjHroW1QQrzc3Vbwxg.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-07-04T23:15:31.996Z",
+      "lastUpdated": "2025-12-02T14:16:12.996Z"
+    },
+    {
+      "id": "b0c40596-7d9a-466c-8f2d-fc1de92a6ae9",
+      "title": "PWABuilder Suite Documentation - test",
+      "url": "https://docs.pwabuilder.com/#/",
+      "host": "docs.pwabuilder.com",
+      "description": "Documentation for building great progressive web apps with the PWABuilder tooling suite.",
+      "image": "https://docs.pwabuilder.com/assets/icons/share-logo.png",
+      "logo": "https://docs.pwabuilder.com/assets/icons/icon_24.png",
+      "tags": [],
+      "createdAt": "2025-07-28T14:15:23.559Z",
+      "lastUpdated": "2025-12-02T14:16:11.465Z"
+    },
+    {
+      "id": "61dbdd96-6bad-4f69-905a-4e0ad75b4b43",
+      "title": "Learn Your Way",
+      "url": "https://learnyourway.withgoogle.com/",
+      "host": "learnyourway.withgoogle.com",
+      "description": "",
+      "image": "",
+      "logo": "https://learnyourway.withgoogle.com/static/favicon.svg",
+      "tags": [],
+      "createdAt": "2025-10-06T04:05:22.407Z",
+      "lastUpdated": "2025-12-02T14:16:00.593Z"
+    },
+    {
+      "id": "84b6fbd2-83f5-47a5-ad9d-d09af78ea4ee",
+      "title": "Figma made its design tools more accessible to AI agents",
+      "url": "https://www.theverge.com/news/783828/figma-make-ai-app-coding-mcp-server-update",
+      "host": "www.theverge.com",
+      "description": "The next phase for Figma’s MCP server.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK273_FIGMA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "logo": "https://www.theverge.com/static-assets/icons/android-chrome-512x512.png",
+      "tags": [],
+      "createdAt": "2025-09-26T11:46:19.237Z",
+      "lastUpdated": "2025-12-02T14:16:02.298Z"
+    },
+    {
+      "id": "222d2958-c52c-4f5e-bd84-266c93f35465",
+      "title": "The Bastion d’OVH, le Fort Knox du SSH qui ne fait confiance à personne | Le site de Korben",
+      "url": "https://korben.info/the-bastion-ovh-ssh-securise-open-source.html",
+      "host": "korben.info",
+      "description": "Voici un outil qui va changer la vie de tous ceux qui galèrent avec la gestion des accès SSH. Vous savez, ce moment où vous devez gérer les clés SSH d...",
+      "image": "https://korben.info/the-bastion-ovh-ssh-securise-open-source/optimized-1751704051882-2025-07-05-the-bastion-ovh-ssh-securise.webp",
+      "logo": "https://korben.info/img/apple-touch-icon.png",
+      "tags": [],
+      "createdAt": "2025-07-05T23:14:12.545Z",
+      "lastUpdated": "2025-12-02T14:16:12.880Z"
+    },
+    {
+      "id": "eab8f9d3-0a03-4d2f-86c5-964fc5a036e3",
+      "title": "I started self-hosting LLMs and absolutely loved it",
+      "url": "https://www.xda-developers.com/i-started-self-hosting-llms-absolutely-loved-it/",
+      "host": "www.xda-developers.com",
+      "description": "Who needs OpenAI when your home lab can do the thinking for you?",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/macbook-air-running-deepseekr1.jpg",
+      "logo": "https://static0.xdaimages.com/assets/images/favicon-240x240.43161a66.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-07-10T07:34:49.955Z",
+      "lastUpdated": "2025-12-02T14:16:12.820Z"
+    },
+    {
+      "id": "8e7df884-aaf8-4420-8333-c309ae13def1",
+      "title": "Dagu — Dagu documentation",
+      "url": "https://dagu.readthedocs.io/en/latest/#",
+      "host": "dagu.readthedocs.io",
+      "description": "",
+      "image": "https://dagu.readthedocs.io/en/latest/_images/dagu-logo.webp",
+      "logo": "https://dagu.readthedocs.io/favicon.ico",
+      "tags": [],
+      "createdAt": "2025-06-01T02:07:43.569Z",
+      "lastUpdated": "2025-12-02T14:16:14.486Z"
+    },
+    {
+      "id": "34c98691-9dff-420e-84db-8f01b57356b9",
+      "title": "GitHub - k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for ...",
+      "url": "https://github.com/k4m4/terminals-are-sexy",
+      "host": "github.com",
+      "description": "💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. - k4m4/terminals-are-sexy",
+      "image": "https://opengraph.githubassets.com/c16b6f436ac1c1a2d256eea7beb25be90f86434b64668574a048be6097d88425/k4m4/terminals-are-sexy",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [],
+      "createdAt": "2024-11-26T04:07:00.939Z",
+      "lastUpdated": "2025-12-02T13:36:52.351Z"
+    },
+    {
+      "id": "cf08ef8e-e6cc-41cb-952b-227ad1db6df6",
+      "title": "GitHub - surajverma/homehub: A lightweight, no-login, self-hosted family utility for your home.",
+      "url": "https://github.com/surajverma/homehub",
+      "host": "github.com",
+      "description": "A lightweight, no-login, self-hosted family utility for your home. - surajverma/homehub",
+      "image": "https://opengraph.githubassets.com/d5caf2b5599ee844063ba42ac5bae38694729e59a82ddbdf17a4db6ac081e7e5/surajverma/homehub",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [],
+      "createdAt": "2025-10-05T14:11:13.217Z",
+      "lastUpdated": "2025-12-02T14:16:00.613Z"
+    },
+    {
+      "id": "b8ed5293-66d0-4b78-98d2-091f20210a48",
+      "title": "Stacher7 - Le meilleur téléchargeur YouTube dont personne ne vous parle | Logiciels utiles | Le site de Korben",
+      "url": "https://korben.info/stacher-meilleur-telechargeur-youtube.html",
+      "host": "korben.info",
+      "description": "Bon, déjà, je sais pourquoi vous êtes là…Vous cherchez un moyen de télécharger des vidéos YouTube sans vous faire emmerder par 50 pubs, sans…",
+      "image": "https://korben.info/stacher-meilleur-telechargeur-youtube/stacher-meilleur-telechargeur-youtube-1.png",
+      "logo": "https://korben.info/img/icon-512.png",
+      "tags": [],
+      "createdAt": "2025-09-22T03:54:33.508Z",
+      "lastUpdated": "2025-12-02T14:16:02.552Z"
+    },
+    {
+      "id": "9e389da3-4dfb-43e3-b6ef-a7b219ea63ed",
+      "title": "bolt.new",
+      "url": "https://bolt.new/",
+      "host": "bolt.new",
+      "description": "Prompt, run, edit & deploy web apps",
+      "image": "https://bolt.new/static/social_preview_index.jpg",
+      "logo": "https://bolt.new/static/favicon.svg",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f",
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2025-03-07T15:51:37.876Z",
+      "lastUpdated": "2025-12-02T14:16:14.537Z"
+    },
+    {
+      "id": "c8fc00e9-ea5f-4d2e-a0f0-774d62c6b5c0",
+      "title": "JSX Tool - React Dev Tools for Styling",
+      "url": "https://jsxtool.com/",
+      "host": "jsxtool.com",
+      "description": "JSX Tool bridges the gap between the Element Inspector and React’s Component Selector to give you the best of both worlds. JSX Tool is like an IDE for...",
+      "image": "https://www.jsxtool.com/og-image.png",
+      "logo": "htts://www.jsxtool.com/logo.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed"
+      ],
+      "createdAt": "2025-11-10T17:46:40.709Z",
+      "lastUpdated": "2025-12-02T14:16:04.253Z"
+    },
+    {
+      "id": "dbe2e06a-da55-414f-97bf-991b75790c34",
+      "title": "Blocks Website",
+      "url": "https://blocks.diy/website/home",
+      "host": "blocks.diy",
+      "description": "",
+      "image": "https://res.cloudinary.com/blocksws/image/upload/v1746947086/uploads/BlocksWebsite_gkdoqf.png",
+      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://blocks.diy/website/home&size=128",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-10-27T02:34:59.792Z",
+      "lastUpdated": "2025-12-02T14:15:58.132Z"
+    },
+    {
+      "id": "40854a19-a3be-46e2-80dc-e9e0b9d09c96",
+      "title": "Riff - Build real apps for work with AI",
+      "url": "https://riff.new/",
+      "host": "riff.new",
+      "description": "Build production-ready apps and agents connected to your tech stack in minutes.",
+      "image": "https://databutton-website-23aqgo1zp-databutton-landing.vercel.app/riff-opengraph.png",
+      "logo": "https://riff.new/_next/static/media/riff-icon.96fc160e.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-10-27T02:40:36.254Z",
+      "lastUpdated": "2025-12-02T14:15:58.062Z"
+    },
+    {
+      "id": "f18b3ba5-be61-47e9-aff5-ca5af60bb29c",
+      "title": "Index – agor",
+      "url": "https://agor.live/",
+      "host": "agor.live",
+      "description": "Next-gen agent orchestration for AI coding. Multiplayer workspace for Claude Code, Codex, and Gemini.",
+      "image": "https://agor.live/hero.png",
+      "logo": "https://agor.live/favicon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed",
+        "7a4ed36e-6cb0-4e13-9fa2-2ed7378904f8"
+      ],
+      "createdAt": "2025-11-10T18:06:20.664Z",
+      "lastUpdated": "2025-12-02T14:16:04.184Z"
+    },
+    {
+      "id": "41bc7a5d-60f7-4976-bab4-0a25fc9c9546",
+      "title": "Workona Tab Manager | Tab Organizer for Chrome, Edge, & Firefox",
+      "url": "https://workona.com/",
+      "host": "workona.com",
+      "description": "Organize your tabs into a dedicated space for each project.",
+      "image": "https://cdn.workona.com/assets/images/workona-best-tab-manager.png?v=3",
+      "logo": "https://cdn.workona.com/assets/images/workona-productivity-app-mark.png",
+      "tags": [
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed"
+      ],
+      "createdAt": "2025-11-25T17:28:41.064Z",
+      "lastUpdated": "2025-12-02T14:16:04.115Z"
+    },
+    {
+      "id": "c63f7f59-07d7-4b5a-b064-db00d05fa3ed",
+      "title": "Granite | IBM",
+      "url": "https://www.ibm.com/granite",
+      "host": "www.ibm.com",
+      "description": "Start building with Granite 4.0, our family of open, performant and trusted AI models, tailored for business and optimized to scale your AI applicatio...",
+      "image": "https://www.ibm.com/content/dam/IBM-8bar.png/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "logo": "https://www.ibm.com/content/dam/adobe-cms/default-images/icon-512x512.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-10-29T22:40:32.446Z",
+      "lastUpdated": "2025-12-02T14:16:09.968Z"
+    },
+    {
+      "id": "bc97c94f-04cd-48b6-b83e-87b7363bb407",
+      "title": "GitHub - canonical/multipass: Multipass orchestrates virtual Ubuntu instances",
+      "url": "https://github.com/canonical/multipass",
+      "host": "github.com",
+      "description": "Multipass orchestrates virtual Ubuntu instances. Contribute to canonical/multipass development by creating an account on GitHub.",
+      "image": "https://repository-images.githubusercontent.com/114128199/7a1a7680-312f-11ea-8813-a830d32dafb2",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed"
+      ],
+      "createdAt": "2025-11-04T11:24:54.947Z",
+      "lastUpdated": "2025-12-02T14:16:07.227Z"
+    },
+    {
+      "id": "08a1293d-4490-4203-9a04-974c21949105",
+      "title": "Home · Hume AI",
+      "url": "https://platform.hume.ai/voice-design",
+      "host": "platform.hume.ai",
+      "description": "Welcome to the Hume AI Platform by Hume AI. Measure emotional behavior in any video or audio with just a few lines of code.",
+      "image": "https://platform.hume.ai/opengraph/default_image.jpg",
+      "logo": "https://platform.hume.ai/favicon-hume.ico",
+      "tags": [],
+      "createdAt": "2025-10-31T02:32:28.655Z",
+      "lastUpdated": "2025-12-02T14:16:09.923Z"
+    },
+    {
+      "id": "51cfb216-f144-41c7-abf4-8d3c59ff99c3",
+      "title": "Sosse – Open Source Search, Scraping & Web Archiving Tool",
+      "url": "https://sosse.io/",
+      "host": "sosse.io",
+      "description": "Crawl, archive, and search web pages—including JavaScript-heavy sites—with Sosse. Open source, flexible, and Selenium-powered.",
+      "image": "https://sosse.io/static/website/sosse-social.png",
+      "logo": "https://sosse.io/static/website/logo.svg",
+      "tags": [],
+      "createdAt": "2025-06-22T14:13:04.420Z",
+      "lastUpdated": "2025-12-02T14:16:14.430Z"
+    },
+    {
+      "id": "ce80af46-8b03-4d19-8a44-feaf7ee36cac",
+      "title": "BeeAI",
+      "url": "https://beeai.dev/",
+      "host": "beeai.dev",
+      "description": "",
+      "image": "",
+      "logo": "https://beeai.dev/bee.svg",
+      "tags": [],
+      "createdAt": "2025-10-29T22:39:42.724Z",
+      "lastUpdated": "2025-12-02T14:16:11.291Z"
+    },
+    {
+      "id": "394fa44c-5a93-4a28-97dc-4723280c9964",
+      "title": "GitHub - zakirkun/deep-eye: An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Gr...",
+      "url": "https://github.com/zakirkun/deep-eye",
+      "host": "github.com",
+      "description": "An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with com...",
+      "image": "https://opengraph.githubassets.com/6207e3a7151b773f12f52ab9e36f7796374a089450d8efe44f6e5e6aecb321b5/zakirkun/deep-eye",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f",
+        "136d50d8-995e-4483-995b-7245c7d30496"
+      ],
+      "createdAt": "2025-10-31T11:14:46.771Z",
+      "lastUpdated": "2025-12-02T14:16:07.326Z"
+    },
+    {
+      "id": "3f688672-e64b-4622-8835-238af91df848",
+      "title": "LM Studio - Discover, download, and run local LLMs",
+      "url": "https://lmstudio.ai/",
+      "host": "lmstudio.ai",
+      "description": "Run Llama, Gemma 3, DeepSeek locally on your computer.",
+      "image": "https://files.lmstudio.ai/6-model-link-og.png",
+      "logo": "https://lmstudio.ai/_next/static/media/android-chrome-192x192.3a60873f.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-07-05T17:24:10.588Z",
+      "lastUpdated": "2025-12-02T14:16:12.924Z"
+    },
+    {
+      "id": "48bf7a08-2c00-4bf4-b00d-e2b8cc3b067d",
+      "title": "You've Been Using AI the Hard Way (Use This Instead)",
+      "url": "https://www.youtube.com/watch?v=MsQACpcuTkU",
+      "host": "www.youtube.com",
+      "description": "Access your devices securely from anywhere with TwinGate: https://ntck.co/ai_terminal Still using AI in the browser? You’re doing it the slow way. ...",
+      "image": "https://i.ytimg.com/vi/MsQACpcuTkU/maxresdefault.jpg",
+      "logo": "https://www.youtube.com/s/desktop/d6f8896a/img/favicon_144x144.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "85b886d4-5511-4adc-917c-5e9340148070"
+      ],
+      "createdAt": "2025-10-31T10:50:11.249Z",
+      "lastUpdated": "2025-12-02T14:16:08.201Z"
+    },
+    {
+      "id": "230f2abb-8a7b-423d-a9c2-bb0f65279031",
+      "title": "steadystart/.claude/commands at main · steadycursor/steadystart",
+      "url": "https://github.com/steadycursor/steadystart/tree/main/.claude/commands",
+      "host": "github.com",
+      "description": "Contribute to steadycursor/steadystart development by creating an account on GitHub.",
+      "image": "https://opengraph.githubassets.com/12219108d777ecf1f123dbe288a8e22ffc61c0ea00863d37af33963eb568ba0a/steadycursor/steadystart",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [],
+      "createdAt": "2025-11-02T15:29:35.905Z",
+      "lastUpdated": "2025-12-02T14:16:07.270Z"
+    },
+    {
+      "id": "7b5a5908-26a9-4a2a-86ce-f3bf8b47142b",
+      "title": "GitHub - AFK-surf/open-agent: Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.",
+      "url": "https://github.com/AFK-surf/open-agent",
+      "host": "github.com",
+      "description": "Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus. - AFK-surf/open-agent",
+      "image": "https://opengraph.githubassets.com/3280815e77601555a755afcde01dda332b06a5ca39983933a4416b62bec693a1/AFK-surf/open-agent",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [],
+      "createdAt": "2025-10-14T12:30:41.053Z",
+      "lastUpdated": "2025-12-02T14:16:00.164Z"
+    },
+    {
+      "id": "f4e0478e-d363-421f-beeb-975a37490c16",
+      "title": "GitHub - ovh/the-bastion: Authentication, authorization, traceability and auditability for SSH accesses.",
+      "url": "https://github.com/ovh/the-bastion",
+      "host": "github.com",
+      "description": "Authentication, authorization, traceability and auditability for SSH accesses. - ovh/the-bastion",
+      "image": "https://repository-images.githubusercontent.com/304028587/60936100-1b7f-11eb-808c-fb4dc8ca9189",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2025-07-05T23:19:19.284Z",
+      "lastUpdated": "2025-12-02T14:16:12.862Z"
+    },
+    {
+      "id": "a4f2eeec-8f48-4037-8bbc-0abb4c15a4e9",
+      "title": "Aura - Fast Vibe Design to HTML and Figma",
+      "url": "https://www.aura.build/browse/components",
+      "host": "www.aura.build",
+      "description": "Generate beautiful designs in seconds and export to HTML or Figma. Powerful prompt builder with hundreds of templates for responsive web design.",
+      "image": "https://aura.build/share-preview.jpg",
+      "logo": "https://www.aura.build/favicon.ico",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f",
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2025-10-31T02:36:49.973Z",
+      "lastUpdated": "2025-12-02T14:16:09.782Z"
+    },
+    {
+      "id": "c5cb779e-72da-4b05-a14a-421d85eebac7",
+      "title": "Connecting Jetpack Compose components | Developer Docs",
+      "url": "https://developers.figma.com/docs/code-connect/compose/",
+      "host": "developers.figma.com",
+      "description": "This documentation guide will help you connect your Jetpack Compose components with Figma components using Code Connect. We’ll cover basic setup to di...",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MyIgaGVpZ2h0PSIyNiIgY2xhc3M9InN2ZyI+CiAgPHBhdGggZD0iTS41MiAwdjIwLjE2bDIuNi4wMXYtOS42aDYuMjVWOC4wM0gzLjExdi01LjVoOC4xNVYwSC41MnptMTUuNCA0LjFhMS43IDEuNyAwIDEgMCAwLTMuNCAxLjcgMS43IDAgMCAwIDAgMy40em0tMS4zMSAyLjUzdjEzLjU0aDIuNlY2LjYzaC0yLjZ6Ii8+CiAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMjYuODIgNi4yNGMtMy40NCAwLTUuODQgMi45MS01Ljg0IDYuMzdzMi40IDYuMzcgNS44NCA2LjM3YzEuNTggMCAyLjg4LS42IDMuODMtMS42djEuOGE0LjA3IDQuMDcgMCAwIDEtNC4wNiA0LjEyYy0uODMgMC0xLjY1LS4zMi0yLjMtLjc4bC0xLjMgMi4yNWE2LjY1IDYuNjUgMCAwIDAgMTAuMjYtNS42VjYuNjRoLTIuNnYxLjIxYy0uOTUtMS0yLjI1LTEuNi0zLjgzLTEuNnptLTMuMjUgNi4zN2MwLTIuMTUgMS42NC0zLjg0IDMuNTQtMy44NCAxLjkgMCAzLjUzIDEuNyAzLjUzIDMuODQgMCAyLjE1LTEuNjQgMy44My0zLjUzIDMuODMtMS45IDAtMy41NC0xLjY4LTMuNTQtMy44M3oiLz4KICA8cGF0aCBkPSJNNDIuNTkgOC43N2EyLjgzIDIuODMgMCAwIDAtMi43OCAyLjg0djguNTZoLTIuNlY2LjYzaDIuNnYxLjI0YTQuMSA0LjEgMCAwIDEgMy4zNC0xLjYzYzEuODIgMCAzLjIyLjkgNC4wMiAyLjI4YTQuOTggNC45OCAwIDAgMSA0LjEzLTIuMjhjMi45NSAwIDQuOCAyLjM4IDQuOCA1LjMzdjguNmgtMi41OFYxMS42YTIuODMgMi44MyAwIDAgMC0yLjc4LTIuODQgMi44MyAyLjgzIDAgMCAwLTIuNzggMi44NHY4LjU2aC0yLjZWMTEuNmEyLjgzIDIuODMgMCAwIDAtMi43Ny0yLjg0eiIvPgogIDxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTY5LjkzIDguMTdhNi4yNyA2LjI3IDAgMCAwLTQuNTctMS45M2MtMy44NiAwLTYuNiAzLjI2LTYuNiA3LjE2IDAgMy45IDIuNzQgNy4xNiA2LjYgNy4xNmE2LjMgNi4zIDAgMCAwIDQuNTctMS45M3YxLjU0aDIuNTlWNi42M2gtMi42djEuNTR6bS04LjU4IDUuMjNjMC0yLjU4IDEuOTgtNC42MyA0LjI5LTQuNjMgMi4zIDAgNC4yOSAyLjA1IDQuMjkgNC42M3MtMS45OCA0LjYyLTQuMjkgNC42MmMtMi4zIDAtNC4yOS0yLjA0LTQuMjktNC42MnoiLz4KPC9zdmc+Cg==",
+      "logo": "https://developers.figma.com/img/favicon.ico",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2025-09-26T12:11:56.343Z",
+      "lastUpdated": "2025-12-02T14:16:02.118Z"
+    },
+    {
+      "id": "13b87174-4a1a-4056-ab64-3753d0f10060",
+      "title": "ClaraVerse - Privacy-First AI Assistant & Agent Builder",
+      "url": "https://claraverse.space/",
+      "host": "claraverse.space",
+      "description": "Complete AI development suite with LumaUI web dev, ComfyUI image generation, N8N automation, and local LLMs. 100% private and offline.",
+      "image": "https://github.com/badboysm890/ClaraVerse/raw/main/public/header.png",
+      "logo": "https://raw.githubusercontent.com/badboysm890/ClaraVerse/d54cfd0f39794f5a5e1727fc8c059074209ec8eb/public/logo.png",
+      "tags": [],
+      "createdAt": "2025-10-17T14:06:24.586Z",
+      "lastUpdated": "2025-12-02T14:16:00.042Z"
+    },
+    {
+      "id": "2c2bf024-1127-43c9-971d-880aaf7be7c1",
+      "title": "Deep Eye - Le scanner de vulns multi-IA | Le site de Korben",
+      "url": "https://korben.info/deep-eye-scanner-vulnerabilites-ai-openai-claude-g.html",
+      "host": "korben.info",
+      "description": "Ce serait cool si on pouvait réunir les Avengers des LLMs pour les faire bosser ensemble sur de la recherche de faille de sécurité ? OpenAI, Anthropic...",
+      "image": "https://korben.info/deep-eye-scanner-vulnerabilites-ai-openai-claude-g/deep-eye-scanner-vulnerabilites-ai-openai-claude-g-1.png",
+      "logo": "https://korben.info/img/icon-512.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f",
+        "136d50d8-995e-4483-995b-7245c7d30496"
+      ],
+      "createdAt": "2025-10-31T11:14:11.706Z",
+      "lastUpdated": "2025-12-02T14:16:07.346Z"
+    },
+    {
+      "id": "e4a1eedd-18e6-42b9-a7a8-64f2d8a8b3e4",
+      "title": "UniGetUI - Martí Climent",
+      "url": "https://www.marticliment.com/unigetui/",
+      "host": "www.marticliment.com",
+      "description": "UniGetUI: A better UI for your package managers. Install, update remove and manage any software you want to with UniGetUI",
+      "image": "https://www.marticliment.com/favicon.ico",
+      "logo": "https://www.marticliment.com/favicon.ico",
+      "tags": [],
+      "createdAt": "2025-01-06T15:54:00.892Z",
+      "lastUpdated": "2025-12-02T13:36:52.204Z"
+    },
+    {
+      "id": "092b9334-fea2-441a-9320-5a77caaa76cb",
+      "title": "Code Search | Grep by Vercel",
+      "url": "https://grep.app/",
+      "host": "grep.app",
+      "description": "Search for code, files, and paths across half a million public GitHub repositories.",
+      "image": "https://grep.app/og.png",
+      "logo": "https://grep.app/static/images/icon-32x32.ae2f571e.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2024-11-24T01:02:46.769Z",
+      "lastUpdated": "2025-12-02T13:36:52.387Z"
+    },
+    {
+      "id": "717d36c3-db53-44e8-ba12-c6bdbe96113d",
+      "title": "ShareX - The best free and open source screenshot tool for Windows",
+      "url": "https://getsharex.com/",
+      "host": "getsharex.com",
+      "description": "ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also al...",
+      "image": "https://getsharex.com/img/ShareX_Card_Large.png",
+      "logo": "https://getsharex.com/favicon.ico",
+      "tags": [],
+      "createdAt": "2025-10-24T22:03:03.534Z",
+      "lastUpdated": "2025-12-02T14:15:58.236Z"
+    },
+    {
+      "id": "56f4734e-61bc-4469-90b7-92c0164d3bea",
+      "title": "GGH - L’outil qui a rendu mes connexions SSH moins galères | Le site de Korben",
+      "url": "https://korben.info/ggh-outil-rendu-mes-connexions-ssh.html",
+      "host": "korben.info",
+      "description": "On a déjà tous passé 10 minutes à chercher dans notre historique bash LA commande SSH avec tous les bons paramètres pour nous connecter à ce foutu ser...",
+      "image": "https://korben.info/ggh-outil-rendu-mes-connexions-ssh/ggh-outil-rendu-mes-connexions-ssh-1.png",
+      "logo": "https://korben.info/img/icon-512.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2025-08-30T02:35:48.849Z",
+      "lastUpdated": "2025-12-02T14:16:11.361Z"
+    },
+    {
+      "id": "875006c9-2fdf-4f29-93f4-cdb99c5f44de",
+      "title": "Platformatic Open Source Software",
+      "url": "https://platformatic.dev/",
+      "host": "platformatic.dev",
+      "description": "The documentation of all Open Source libraries that are part of Platformatic.",
+      "image": "https://docs.platformatic.dev/img/platformatic-logo.svg",
+      "logo": "https://platformatic.dev/img/favicon.ico",
+      "tags": [],
+      "createdAt": "2025-08-30T15:03:41.473Z",
+      "lastUpdated": "2025-12-02T14:16:03.954Z"
+    },
+    {
+      "id": "7b2d7a1e-1948-4742-b641-dcea8d1a6b52",
+      "title": "ClaraVerse - Privacy-First AI Assistant & Agent Builder",
+      "url": "https://claraverse.space/",
+      "host": "claraverse.space",
+      "description": "Complete AI development suite with LumaUI web dev, ComfyUI image generation, N8N automation, and local LLMs. 100% private and offline.",
+      "image": "https://github.com/badboysm890/ClaraVerse/raw/main/public/header.png",
+      "logo": "https://raw.githubusercontent.com/badboysm890/ClaraVerse/d54cfd0f39794f5a5e1727fc8c059074209ec8eb/public/logo.png",
+      "tags": [],
+      "createdAt": "2025-10-09T01:30:52.915Z",
+      "lastUpdated": "2025-12-02T14:16:00.570Z"
+    },
+    {
+      "id": "7f74cbda-bfed-4fe4-9772-a1f62876405d",
+      "title": "Introducing Open SWE: An Open-Source Asynchronous Coding Agent",
+      "url": "https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/?utm_campaign=16830387-[AON]-CAMP-PUBLIC_EXTERNAL-ALL-EMM-GenAI_CROWDFUNDING&utm_content=344028004&utm_medium=social&utm_source=linkedin&hss_channel=lcp-70502230",
+      "host": "blog.langchain.com",
+      "description": "The use of AI in software engineering has evolved over the past two years. It started as autocomplete, then went to a copilot in an IDE, and in the fa...",
+      "image": "https://blog.langchain.com/content/images/size/w1200/2025/08/open-swe-diagram-1.png",
+      "logo": "https://blog.langchain.com/content/images/size/w256h256/2024/03/Twitter_ProfilePicture.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "ca6a8097-d09a-4804-9f6f-1c6f4c0dbe3a",
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-08-30T14:33:05.363Z",
+      "lastUpdated": "2025-12-02T14:16:04.091Z"
+    },
+    {
+      "id": "67ab955c-e4d7-48cc-96e7-e30ec952275e",
+      "title": "Claude Code Templates - Supercharge Your AI Development with Anthropic Claude",
+      "url": "https://www.aitmpl.com/commands",
+      "host": "www.aitmpl.com",
+      "description": "Professional templates for Anthropic’s Claude Code. Deep coding at terminal velocity with Claude Opus 4.1. Install 100+ agents, commands, settings & h...",
+      "image": "https://raw.githubusercontent.com/davila7/claude-code-templates/main/social-preview.png",
+      "logo": "https://www.aitmpl.com/static/favicon/android-chrome-512x512.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed",
+        "a16e2d68-87ec-49ae-b2fd-a41030d5e41d"
+      ],
+      "createdAt": "2025-11-07T21:21:28.473Z",
+      "lastUpdated": "2025-12-02T14:16:05.754Z"
+    },
+    {
+      "id": "cf772dc3-441a-4587-82b1-359fbc3c4213",
+      "title": "GitHub - marianfoo/mcp-sap-docs",
+      "url": "https://github.com/marianfoo/mcp-sap-docs?utm_source=chatgpt.com",
+      "host": "github.com",
+      "description": "Contribute to marianfoo/mcp-sap-docs development by creating an account on GitHub.",
+      "image": "https://opengraph.githubassets.com/4f600164607155ebcf271d7eae62475c3365d63efe6d4a52c0b8d36bf82228d8/marianfoo/mcp-sap-docs",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "602c3be1-4361-42ed-b18d-07c126128280",
+        "ac6b9262-76b0-4b29-ac9d-ac47627b0c99"
+      ],
+      "createdAt": "2025-11-08T00:11:40.886Z",
+      "lastUpdated": "2025-12-02T14:16:05.607Z"
+    },
+    {
+      "id": "7805c128-c61f-4a23-aef2-632913c5445d",
+      "title": "Codex CLI features",
+      "url": "https://developers.openai.com/codex/cli/features",
+      "host": "developers.openai.com",
+      "description": "Deep dives on the interactive terminal, model controls, approvals, scripting, and more.",
+      "image": "https://developers.openai.com/open-graph.png",
+      "logo": "https://developers.openai.com/favicon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed",
+        "b53540ab-9883-4d0a-957b-1b6feefd421a"
+      ],
+      "createdAt": "2025-11-07T23:29:20.870Z",
+      "lastUpdated": "2025-12-02T14:16:05.706Z"
+    },
+    {
+      "id": "bdb1e39e-0aab-491f-9878-6a94ce2aa0ad",
+      "title": "Stacher7",
+      "url": "https://stacher.io/",
+      "host": "stacher.io",
+      "description": "Stacher7. The yt-dlp GUI you’ve been looking for.",
+      "image": "https://stacher.io/stacher7_metadata.png",
+      "logo": "https://stacher.io/favicon.ico",
+      "tags": [],
+      "createdAt": "2025-09-22T03:54:56.829Z",
+      "lastUpdated": "2025-12-02T14:16:02.477Z"
+    },
+    {
+      "id": "86704f62-f3ed-4a07-9585-39716e217d06",
+      "title": "Screenity - The free and privacy-friendly screen recorder",
+      "url": "https://screenity.io/en/",
+      "host": "screenity.io",
+      "description": "Screenity is a screen recorder for Chrome with no limits. Capture, draw, edit videos and more - all with no sign in needed, completely private and open source.",
+      "image": "http://localhost:3000/opengraph-image.png?27e68ad52367f38d",
+      "logo": "https://screenity.io/favicon.ico",
+      "tags": [],
+      "createdAt": "2024-11-16T23:37:13.871Z",
+      "lastUpdated": "2025-12-02T13:36:53.730Z"
+    },
+    {
+      "id": "85c401b3-3e18-474b-8584-88d59fbb0023",
+      "title": "Erugo - Self-hosted file sharing platform | WeTransfer Alternative",
+      "url": "https://erugo.app/",
+      "host": "erugo.app",
+      "description": "Your self-hosted file sharing platform.",
+      "image": "https://erugo.app/content/images/2025/03/uploader-1.jpg",
+      "logo": "https://erugo.app/content/images/size/w256h256/2025/03/icon.png",
+      "tags": [],
+      "createdAt": "2025-07-22T16:51:39.736Z",
+      "lastUpdated": "2025-12-02T14:16:11.504Z"
+    },
+    {
+      "id": "bcdbc84b-5df3-4bbe-b59c-5f34aa3eb79d",
+      "title": "GitHub - DumbWareio/DumbAssets: A Stupid Simple Asset Tracker",
+      "url": "https://github.com/DumbWareio/DumbAssets",
+      "host": "github.com",
+      "description": "A Stupid Simple Asset Tracker. Contribute to DumbWareio/DumbAssets development by creating an account on GitHub.",
+      "image": "https://repository-images.githubusercontent.com/973758361/695efbc5-86a4-4017-80a6-b2f15bd03e3b",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "1e1e2b0f-2413-4e35-a0f7-b6e8bf15fec4"
+      ],
+      "createdAt": "2025-08-15T01:30:29.531Z",
+      "lastUpdated": "2025-12-02T14:16:11.438Z"
+    },
+    {
+      "id": "a12ce141-606c-4987-87ef-fc62b6989728",
+      "title": "GitHub - aristocratos/bashtop: Linux/OSX/FreeBSD resource monitor",
+      "url": "https://github.com/aristocratos/bashtop",
+      "host": "github.com",
+      "description": "Linux/OSX/FreeBSD resource monitor. Contribute to aristocratos/bashtop development by creating an account on GitHub.",
+      "image": "https://opengraph.githubassets.com/e1806e4d29c0e2fc280a85267b58b841fcbc9a0fd16b93d22478bb05369edbf4/aristocratos/bashtop",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [],
+      "createdAt": "2024-11-26T04:20:14.575Z",
+      "lastUpdated": "2025-12-02T13:36:52.268Z"
+    },
+    {
+      "id": "f412e58f-5445-4e26-8cfb-3103acb8476f",
+      "title": "Google Colab",
+      "url": "https://colab.research.google.com/",
+      "host": "colab.research.google.com",
+      "description": "",
+      "image": "https://colab.research.google.com/img/colab_favicon_256px.png",
+      "logo": "https://ssl.gstatic.com/colaboratory-static/common/b85c6cdd5fea15b9b1515d1620705f39/img/favicon.ico",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f",
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2025-06-25T23:00:13.020Z",
+      "lastUpdated": "2025-12-02T14:16:14.380Z"
+    },
+    {
+      "id": "c443578a-6059-45fa-9d54-af8808d186f7",
+      "title": "This free Chrome extension solves NotebookLM’s most annoying limitation",
+      "url": "https://www.xda-developers.com/notebooklm-to-pdf-chrome-extension/",
+      "host": "www.xda-developers.com",
+      "description": "I wish I had found this extension sooner.",
+      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/img_4182-1.jpg?w=1600&h=900&fit=crop",
+      "logo": "https://static0.xdaimages.com/assets/images/favicon-240x240.43161a66.png",
+      "tags": [],
+      "createdAt": "2025-09-26T11:44:16.273Z",
+      "lastUpdated": "2025-12-02T14:16:02.395Z"
+    },
+    {
+      "id": "baea1938-3665-4de0-8d3c-9b335c31cc6a",
+      "title": "Introducing the Jules extension for Gemini CLI- Google Developers Blog",
+      "url": "https://developers.googleblog.com/en/introducing-the-jules-extension-for-gemini-cli/",
+      "host": "developers.googleblog.com",
+      "description": "Introducing the Jules extension for Gemini CLI, an autonomous sidekick that streamlines coding workflows by handling tasks in the background.",
+      "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Jules_Extension_-_Metadata_Image.2e16d0ba.fill-1200x600.png",
+      "logo": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/meta/favicon.ico",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "36f013c7-bab7-47d8-bac2-76aad93c7ab5"
+      ],
+      "createdAt": "2025-11-05T04:09:03.762Z",
+      "lastUpdated": "2025-12-02T14:16:05.915Z"
+    },
+    {
+      "id": "9450333a-1bf9-4ecd-8633-bddcea2e5811",
+      "title": "Emergent - AI-Powered App Development | No Code Required",
+      "url": "https://app.emergent.sh/",
+      "host": "app.emergent.sh",
+      "description": "From idea to app in minutes. AI-powered development platform for creators, entrepreneurs, and developers.",
+      "image": "https://app.emergent.sh/logo.png",
+      "logo": "https://app.emergent.sh/favicon.ico",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-10-26T15:23:43.273Z",
+      "lastUpdated": "2025-12-02T14:15:58.203Z"
+    },
+    {
+      "id": "9a7d780b-8edd-4d55-ac3c-3e6715fe48ee",
+      "title": "Dyad | Free, local, open-source AI app builder",
+      "url": "https://www.dyad.sh/",
+      "host": "www.dyad.sh",
+      "description": "",
+      "image": "https://www.dyad.sh/logo.svg",
+      "logo": "https://www.dyad.sh/icon.png?0bd63cb71c42928a",
+      "tags": [],
+      "createdAt": "2025-10-14T12:28:09.485Z",
+      "lastUpdated": "2025-12-02T14:16:00.369Z"
+    },
+    {
+      "id": "b473eb9e-7fee-4501-a7a1-cd630298b98a",
+      "title": "Design Context, Everywhere You Build | Figma Blog",
+      "url": "https://www.figma.com/blog/design-context-everywhere-you-build/",
+      "host": "www.figma.com",
+      "description": "Our latest updates to the Figma MCP server and Code Connect bring Figma design context anywhere you work.",
+      "image": "https://cdn.sanity.io/images/599r6htc/regionalized/de69a4c6d25a647e3e05f1161324998aefb1cc2d-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+      "logo": "https://static.figma.com/app/icon/1/icon-192.png",
+      "tags": [],
+      "createdAt": "2025-09-26T11:47:17.082Z",
+      "lastUpdated": "2025-12-02T14:16:02.220Z"
+    },
+    {
+      "id": "1bb757cd-4c00-40d0-8b3e-17625edf9649",
+      "title": "GitHub - AFK-surf/open-agent: Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.",
+      "url": "https://github.com/AFK-surf/open-agent",
+      "host": "github.com",
+      "description": "Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus. - AFK-surf/open-agent",
+      "image": "https://opengraph.githubassets.com/f9738de53e5f61a36c7bd92d94a99eb855e1f3616e5b7096c76abbe3efdba461/AFK-surf/open-agent",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [],
+      "createdAt": "2025-10-12T13:43:41.562Z",
+      "lastUpdated": "2025-12-02T14:16:00.440Z"
+    },
+    {
+      "id": "2dc08b6c-98e6-469f-82de-ba124dd30f1d",
+      "title": "OpenCode | The AI coding agent built for the terminal",
+      "url": "https://opencode.ai/",
+      "host": "opencode.ai",
+      "description": "opencode - The AI coding agent built for the terminal.",
+      "image": "https://opencode.ai/social-share.png",
+      "logo": "https://opencode.ai/favicon.svg",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-10-31T10:49:19.429Z",
+      "lastUpdated": "2025-12-02T14:16:08.278Z"
+    },
+    {
+      "id": "64e4b213-be16-43ae-b00b-0c5e7fb19934",
+      "title": "Design Context, Everywhere You Build | Figma Blog",
+      "url": "https://www.figma.com/blog/design-context-everywhere-you-build/",
+      "host": "www.figma.com",
+      "description": "Our latest updates to the Figma MCP server and Code Connect bring Figma design context anywhere you work.",
+      "image": "https://cdn.sanity.io/images/599r6htc/regionalized/de69a4c6d25a647e3e05f1161324998aefb1cc2d-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+      "logo": "https://static.figma.com/app/icon/1/icon-192.png",
+      "tags": [],
+      "createdAt": "2025-09-27T02:17:22.093Z",
+      "lastUpdated": "2025-12-02T14:16:02.007Z"
+    },
+    {
+      "id": "20e0421c-fb33-482a-a4d0-fe91da37a4c0",
+      "title": "Microsoft Activation Scripts (MAS) | MAS",
+      "url": "https://massgrave.dev/",
+      "host": "massgrave.dev",
+      "description": "Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.",
+      "image": "https://massgrave.dev/img/card.png",
+      "logo": "https://massgrave.dev/img/favicon.ico",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2024-12-01T13:28:38.057Z",
+      "lastUpdated": "2025-12-02T13:36:52.242Z"
+    },
+    {
+      "id": "252942b6-1816-479c-9a02-cd0a58345632",
+      "title": "colab.google",
+      "url": "https://colab.google/",
+      "host": "colab.google",
+      "description": "",
+      "image": "http://0.0.0.0:8080/static/images/share.png",
+      "logo": "https://colab.google/static/images/favicon.ico",
+      "tags": [
+        "fb855e1e-5b78-489a-93ea-7d93b76f7ac7",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "d27c2653-76a4-4f38-a460-71b77b093ddf"
+      ],
+      "createdAt": "2025-10-31T02:37:38.577Z",
+      "lastUpdated": "2025-12-02T14:16:09.735Z"
+    },
+    {
+      "id": "e0d23ed8-1a74-4b55-a919-89d77d83c91a",
+      "title": "GitHub - sirmalloc/ccstatusline: 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.",
+      "url": "https://github.com/sirmalloc/ccstatusline?tab=readme-ov-file",
+      "host": "github.com",
+      "description": "🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more. - sirmalloc/ccstatusline",
+      "image": "https://opengraph.githubassets.com/32fe0b149e207e2a08244939c8aff3fb19807b689e2591b0e938f5b87acf2bc2/sirmalloc/ccstatusline",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed",
+        "a16e2d68-87ec-49ae-b2fd-a41030d5e41d"
+      ],
+      "createdAt": "2025-11-07T16:14:30.382Z",
+      "lastUpdated": "2025-12-02T14:16:05.845Z"
+    },
+    {
+      "id": "4b070493-1ff6-44c9-ad67-a0e1461a9192",
+      "title": "Compare Countries With This Simple Tool",
+      "url": "https://thetruesize.com/#?borders=1~!MTc5OTc3MDg.NTU1MQ*MzYwMDAwMDA(MA~!BR*NTYyMjczMg.Mjc3OTYzNTg(NDk3)Nw",
+      "host": "thetruesize.com",
+      "description": "Drag and drop countries around the map to compare their relative size. Is Greenland really as big as all of Africa? You may be surprised at what you f...",
+      "image": "http://thetruesize.com/img/twitter-card-screenshot.jpg",
+      "logo": "https://thetruesize.com/c4de21d5c14a7dff3436.svg",
+      "tags": [],
+      "createdAt": "2025-10-31T02:34:01.286Z",
+      "lastUpdated": "2025-12-02T14:16:09.875Z"
+    },
+    {
+      "id": "21ced88e-126e-4eab-a47f-2956d4ad7e4a",
+      "title": "FlowScraper",
+      "url": "https://flowscraper.com/",
+      "host": "flowscraper.com",
+      "description": "FlowScraper is an intuitive web scraper for easy, customizable data extraction.",
+      "image": "https://flowscraper.com/_next/image?url=https%3A%2F%2Fapi.producthunt.com%2Fwidgets%2Fembed-image%2Fv1%2Ffeatured.svg%3Fpost_id%3D587829%26theme%3Dlight&w=640&q=75",
+      "logo": "https://flowscraper.com/icon.png?9e2de27ecc72ee82",
+      "tags": [],
+      "createdAt": "2024-11-16T23:38:03.396Z",
+      "lastUpdated": "2025-12-02T13:36:52.410Z"
+    },
+    {
+      "id": "14cc54f5-e060-4fc3-81c9-45e47e599386",
+      "title": "Gemini CLI | Gemini for Google Cloud | Google Cloud Documentation",
+      "url": "https://docs.cloud.google.com/gemini/docs/codeassist/gemini-cli",
+      "host": "docs.cloud.google.com",
+      "description": "Learn about the Gemini CLI",
+      "image": "https://docs.cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
+      "logo": "https://www.gstatic.com/devrel-devsite/prod/v154b6c17f7870ab2939b3d571919274f806798dc59971188e1f4183601ea7775/clouddocs/images/favicons/onecloud/favicon.ico",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-10-31T10:52:16.262Z",
+      "lastUpdated": "2025-12-02T14:16:07.383Z"
+    },
+    {
+      "id": "9c8e5c8c-fd09-4de0-80b9-a014a8601e70",
+      "title": "Codex CLI",
+      "url": "https://developers.openai.com/codex/cli",
+      "host": "developers.openai.com",
+      "description": "Pair with Codex in your terminal",
+      "image": "https://developers.openai.com/open-graph.png",
+      "logo": "https://developers.openai.com/favicon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "b53540ab-9883-4d0a-957b-1b6feefd421a",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed"
+      ],
+      "createdAt": "2025-11-07T23:30:26.856Z",
+      "lastUpdated": "2025-12-02T14:16:05.655Z"
+    },
+    {
+      "id": "4c1d59c7-fe01-4812-9ce8-7e4ca8e72224",
+      "title": "GitHub - preset-io/agor: Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, an...",
+      "url": "https://github.com/preset-io/agor",
+      "host": "github.com",
+      "description": "Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team’s a...",
+      "image": "https://opengraph.githubassets.com/3e334721c16b913d97c2a631ef2734b3dd972539c0961abed001421c3627ab8d/preset-io/agor",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed"
+      ],
+      "createdAt": "2025-11-10T17:44:58.530Z",
+      "lastUpdated": "2025-12-02T14:16:04.235Z"
+    },
+    {
+      "id": "ff6fe6ff-89d6-4135-b718-cbcb2ea5fea6",
+      "title": "Free AI Packaging Design | Create Packaging with Packify",
+      "url": "https://www.packify.ai/",
+      "host": "www.packify.ai",
+      "description": "Design packaging with just words using Packify’s AI packaging design tool. Generate product visuals, edit with ease, and get results ready for commerc...",
+      "image": "https://cdn.packify.ai/seo/b2fa0b23-7391-4ad2-91ce-2ab294eb0b67.webp",
+      "logo": "https://www.packify.ai/logo.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-10-31T02:35:47.496Z",
+      "lastUpdated": "2025-12-02T14:16:09.828Z"
+    },
+    {
+      "id": "b84aeaa2-e569-4d2a-9a6c-9f993f869b15",
+      "title": "Reqres - A hosted REST-API ready to respond to your AJAX requests",
+      "url": "https://reqres.in/",
+      "host": "reqres.in",
+      "description": "A hosted REST-API ready to respond to your AJAX requests",
+      "image": "https://reqres.in/img/logo-dark.jpg",
+      "logo": "https://reqres.in/img/logo-dark.jpg",
+      "tags": [
+        "69bd5d95-a98b-4f5e-a478-77727347bd74"
+      ],
+      "createdAt": "2025-10-21T12:22:21.443Z",
+      "lastUpdated": "2025-12-02T14:15:58.270Z"
+    },
+    {
+      "id": "14789e86-ae29-4663-bfe4-34204fb60622",
+      "title": "Wrkflw - Testez vos GitHub Actions en local avant de casser la prod | Le site de Korben",
+      "url": "https://korben.info/wrkflw-testez-vos-github-actions-local.html",
+      "host": "korben.info",
+      "description": "Hier soir, j’ai découvert un outil qui m’aurait évité des dizaines de commits “fix CI”, “fix CI again”, “please…",
+      "image": "https://korben.info/wrkflw-testez-vos-github-actions-local/wrkflw-testez-vos-github-actions-local-1.png",
+      "logo": "https://korben.info/img/icon-512.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2025-08-30T14:32:33.156Z",
+      "lastUpdated": "2025-12-02T14:16:11.325Z"
+    },
+    {
+      "id": "679447cd-7029-4246-bf2a-acce38fa6eb6",
+      "title": "Git-who - L’outil parfait pour l’analyse des contributions Git | Le site de Korben",
+      "url": "https://korben.info/git-who-outil-revolutionne-analyse-contributions-git.html",
+      "host": "korben.info",
+      "description": "Vous savez ce qui m’a toujours ennuyé avec git blame ? C’est qu’à chaque refactoring, chaque reformatage de code, chaque déplacement de…",
+      "image": "https://korben.info/git-who-outil-revolutionne-analyse-contributions-git/git-who-outil-revolutionne-analyse-contributions-git-1.png",
+      "logo": "https://korben.info/img/icon-512.png",
+      "tags": [],
+      "createdAt": "2025-08-21T00:49:13.389Z",
+      "lastUpdated": "2025-12-02T14:16:11.403Z"
+    },
+    {
+      "id": "dbd83e36-c489-4400-9a39-5faae9dd1666",
+      "title": "OpenAgent - The Open Source Agentic AI",
+      "url": "https://open-agent.io/",
+      "host": "open-agent.io",
+      "description": "",
+      "image": "",
+      "logo": "",
+      "tags": [],
+      "createdAt": "2025-10-12T13:42:44.288Z",
+      "lastUpdated": "2025-12-02T14:16:00.463Z"
+    },
+    {
+      "id": "ffc431c4-69e8-4e20-babb-21e1394da509",
+      "title": "Sitespeed.io - L’outil open source qui va booster votre monitoring de performance web | Le site de Korben",
+      "url": "https://korben.info/sitespeed-outil-open-source-revolutionner-votre.html",
+      "host": "korben.info",
+      "description": "Je suis en vacances mais l’incroyable Lorenper a découvert un outil de malade pour monitorer les performances de nos site web alors je ne résiste pas…",
+      "image": "https://korben.info/sitespeed-outil-open-source-revolutionner-votre/manu23_Wallpaper_-ar_32_-oref_httpss.mj_.runcFqQSFqEHsQ_-ow_d76b6d05-bb2e-4c46-948c-dade5f015ac5_2.webp",
+      "logo": "https://korben.info/img/apple-touch-icon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2025-07-22T10:40:49.938Z",
+      "lastUpdated": "2025-12-02T14:16:11.539Z"
+    },
+    {
+      "id": "7dc63fd8-4f11-4a8c-9b0d-ea6cdccde98c",
+      "title": "Deploy your apps with a git push | /dev/push",
+      "url": "https://devpu.sh/",
+      "host": "devpu.sh",
+      "description": "/dev/push is an open source alternative to Vercel and Render, allowing you to deploy your apps straight from GitHub.",
+      "image": "https://devpu.sh/assets/social.png",
+      "logo": "https://devpu.sh/assets/apple-touch-icon.png",
+      "tags": [],
+      "createdAt": "2025-10-09T01:14:55.543Z",
+      "lastUpdated": "2025-12-02T13:36:52.182Z"
+    },
+    {
+      "id": "3aa4b7f1-52d6-43af-9a35-f1dd612acfc4",
+      "title": "Twenty - The #1 Open-Source CRM",
+      "url": "https://twenty.com/",
+      "host": "twenty.com",
+      "description": "Twenty is a modern, open-source CRM alternative to Salesforce—fully customizable, affordable, and powered by the community.",
+      "image": "https://framerusercontent.com/assets/H7wGkHoAi1Dohc6jXriJzfrZ0EU.png",
+      "logo": "https://framerusercontent.com/images/jFBfPDVaJx9kQOwGT4WiIwZCos.png",
+      "tags": [],
+      "createdAt": "2025-06-29T12:12:31.976Z",
+      "lastUpdated": "2025-12-02T14:16:13.079Z"
+    },
+    {
+      "id": "c1347861-026a-4754-99c5-e144e8841ae0",
+      "title": "GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "host": "github.com",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows - ComposioHQ/awesome-claude-skills",
+      "image": "https://opengraph.githubassets.com/896cdbc07e19a890cc87473ef21c2d5ed63855e7254648540b8117dce0bc0f23/ComposioHQ/awesome-claude-skills",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "a16e2d68-87ec-49ae-b2fd-a41030d5e41d",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2025-11-14T12:10:15.459Z",
+      "lastUpdated": "2025-12-02T14:16:04.161Z"
+    },
+    {
+      "id": "356af13e-9bb8-4808-a999-3093929f1ac8",
+      "title": "How to Create a Local Chatbot Without Coding in Less Than 10 Minutes on AI PCs",
+      "url": "https://dev.to/llmware/how-to-create-a-local-chatbot-without-coding-in-less-than-10-minutes-on-ai-pcs-2ajl",
+      "host": "dev.to",
+      "description": "🔖 No cloud. No internet. No coding. 🔖 Just you, your laptop, and 100+ powerful AI models running…",
+      "image": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivwfu3n6xre4gl68cmgb.png",
+      "logo": "https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-07-04T23:19:53.294Z",
+      "lastUpdated": "2025-12-02T14:16:12.959Z"
+    },
+    {
+      "id": "4911e612-17e4-4818-91b7-10cf151e6d3f",
+      "title": "GitHub - marianfoo/mcp-sap-notes: MCP Server to search and retrieve SAP Notes",
+      "url": "https://github.com/marianfoo/mcp-sap-notes?utm_source=chatgpt.com",
+      "host": "github.com",
+      "description": "MCP Server to search and retrieve SAP Notes. Contribute to marianfoo/mcp-sap-notes development by creating an account on GitHub.",
+      "image": "https://opengraph.githubassets.com/3f5b1ca647e7d5d24c68972da013d8090c314a53a09e718f236d4491b5433197/marianfoo/mcp-sap-notes",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "602c3be1-4361-42ed-b18d-07c126128280",
+        "ac6b9262-76b0-4b29-ac9d-ac47627b0c99",
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2025-11-08T00:04:41.889Z",
+      "lastUpdated": "2025-12-02T14:16:05.632Z"
+    },
+    {
+      "id": "70789f48-6455-4d64-8581-43cee72cdb13",
+      "title": "Tabby - a terminal for a more modern age",
+      "url": "https://tabby.sh/",
+      "host": "tabby.sh",
+      "description": "Tabby is a free and open source SSH, local and Telnet terminal with everything you’ll ever need.",
+      "image": "https://user-images.githubusercontent.com/161476/126016449-a053012a-e322-48ed-a2ab-3ed4f3281465.png",
+      "logo": "https://tabby.sh/41c0b2191a91f83bee77.png",
+      "tags": [],
+      "createdAt": "2024-11-26T04:15:40.714Z",
+      "lastUpdated": "2025-12-02T13:36:52.308Z"
+    },
+    {
+      "id": "36fd01b5-0dd2-4db2-b7d8-6ca4b58d8687",
+      "title": "Data Catering",
+      "url": "https://data.catering/latest/",
+      "host": "data.catering",
+      "description": "An open-source automated test data management tool that can automatically discover, generate and validate for files, databases, HTTP APIs and messagin...",
+      "image": "https://data.catering/0.16.10/assets/images/social/index.png",
+      "logo": "https://data.catering/latest/diagrams/logo/data_catering_transparent.svg",
+      "tags": [],
+      "createdAt": "2025-10-11T20:24:31.821Z",
+      "lastUpdated": "2025-12-02T14:16:00.503Z"
+    },
+    {
+      "id": "4ec3bc84-b688-44d6-aedc-61c3b7fd867a",
+      "title": "LM Studio - Local AI on your computer",
+      "url": "https://lmstudio.ai/",
+      "host": "lmstudio.ai",
+      "description": "Run local AI models like gpt-oss, Llama, Gemma, Qwen, and DeepSeek privately on your computer.",
+      "image": "https://files.lmstudio.ai/6-model-link-og.png",
+      "logo": "https://lmstudio.ai/assets/android-chrome-192x192.png",
+      "tags": [],
+      "createdAt": "2025-10-17T14:07:10.419Z",
+      "lastUpdated": "2025-12-02T14:15:58.307Z"
+    },
+    {
+      "id": "7ea37d6e-5c25-4954-a9ee-97a68f524300",
+      "title": "UX Pilot - Superfast UX/UI Design with AI",
+      "url": "https://uxpilot.ai/",
+      "host": "uxpilot.ai",
+      "description": "Generate Wireframes and UI Designs with the most flexible AI model. Design & Ship faster your products with AI.",
+      "image": "https://uxpilot.ai/assets/images/ux-pilot-sm.png",
+      "logo": "https://uxpilot.ai/favicon.ico",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-10-26T21:00:33.120Z",
+      "lastUpdated": "2025-12-02T14:15:58.185Z"
+    },
+    {
+      "id": "e7b3f960-e9ed-4912-ad21-df5c4baa2784",
+      "title": "tldraw • build whiteboards in React with the tldraw SDK",
+      "url": "https://tldraw.dev/",
+      "host": "tldraw.dev",
+      "description": "The tldraw SDK provides tools, services, and APIs to build beautiful whiteboards and infinite canvas applications with real-time collaboration and a p...",
+      "image": "https://framerusercontent.com/images/vgiRC4Z0y6npWcLS0ZkrhKTEZEc.png",
+      "logo": "https://framerusercontent.com/images/v2CK03lECPzVvj0KHFUOxxHgc.svg",
+      "tags": [],
+      "createdAt": "2025-09-19T15:43:40.464Z",
+      "lastUpdated": "2025-12-02T14:16:02.629Z"
+    },
+    {
+      "id": "9746da2b-8775-4694-9d5d-87d05a608504",
+      "title": "Claude Code | Claude",
+      "url": "https://claude.com/product/claude-code",
+      "host": "claude.com",
+      "description": "Your code’s new collaborator. Embed Claude directly in your terminal or IDE to manage million-line codebases and implement changes.",
+      "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d41149ace562bfd24d_og-claude-product-claude-code.jpg",
+      "logo": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/689f4a9aff1f63fde75cf733_favicon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-10-31T10:55:18.475Z",
+      "lastUpdated": "2025-12-02T14:16:05.799Z"
+    },
+    {
+      "id": "6ecc3592-7b6f-428e-a9f1-2f0d4517d56a",
+      "title": "CloudFlare AI Team Just Open-Sourced ‘VibeSDK’ that Lets Anyone Build and Deploy a Full AI Vibe Coding Platform with a Single Click",
+      "url": "https://www.marktechpost.com/2025/09/23/cloudflare-ai-team-just-open-sourced-vibesdk-that-lets-anyone-build-and-deploy-a-full-ai-vibe-coding-platform-with-a-single-click/",
+      "host": "www.marktechpost.com",
+      "description": "",
+      "image": "",
+      "logo": "",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a"
+      ],
+      "createdAt": "2025-09-27T02:14:15.359Z",
+      "lastUpdated": "2025-12-02T14:16:02.067Z"
+    },
+    {
+      "id": "64879072-e66b-4b2b-a3a4-7ca3e6b569c9",
+      "title": "DNS + Firewall App for Android 6+ | Rethink",
+      "url": "https://rethinkdns.com/app",
+      "host": "rethinkdns.com",
+      "description": "3B+ Android users deserve access to a safer and open Internet. RethinkDNS is a private, secure, and fast DNS resolver with custom rules, blocklists, a...",
+      "image": "https://rethinkdns.com/ico/app_icon.svg",
+      "logo": "https://rethinkdns.com/ico/android-icon-192x192.png",
+      "tags": [
+        "83f8be6d-1a5b-4d51-8f5b-af1cb6b3ae99"
+      ],
+      "createdAt": "2025-08-30T14:38:12.100Z",
+      "lastUpdated": "2025-12-02T14:16:04.045Z"
+    },
+    {
+      "id": "b3a59de7-db36-4140-a3c0-8a0ef7b043d8",
+      "title": "Free Video Conferencing from Europe | Digital Samba",
+      "url": "https://www.digitalsamba.com/",
+      "host": "www.digitalsamba.com",
+      "description": "Enjoy free, secure video calls with no sign-up, no tracking, and no bloat. 100% European-hosted. A privacy-first alternative to Zoom, Teams, and Meet.",
+      "image": "https://www.digitalsamba.com/hs-fs/hubfs/email_header-1.png?width=1200&height=180&name=email_header-1.png",
+      "logo": "https://www.digitalsamba.com/hubfs/Website%20favicon%20logo.png",
+      "tags": [],
+      "createdAt": "2025-08-30T14:48:05.315Z",
+      "lastUpdated": "2025-12-02T14:16:04.000Z"
+    },
+    {
+      "id": "d3ae95a4-a35e-4266-a32f-a79c6fa1fefc",
+      "title": "GitHub - codeaholicguy/ai-devkit: A CLI toolkit for AI-assisted software development with structured phase templates and environment setup for Cursor ...",
+      "url": "https://github.com/codeaholicguy/ai-devkit",
+      "host": "github.com",
+      "description": "A CLI toolkit for AI-assisted software development with structured phase templates and environment setup for Cursor and Claude Code. - codeaholicguy/a...",
+      "image": "https://opengraph.githubassets.com/d7868bf6dbd39658765e9aa95f612d63b285804f52cc83cfbe9dc642b92822e9/codeaholicguy/ai-devkit",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-11-02T16:02:17.565Z",
+      "lastUpdated": "2025-12-02T14:16:07.249Z"
+    },
+    {
+      "id": "4fbfd96a-8d7d-4e90-a12b-c134184af0fe",
+      "title": "GitHub - Gu1llaum-3/sshm: SSHM is a beautiful command-line tool that transforms how you manage and connect to your SSH hosts. Built with Go and featur...",
+      "url": "https://github.com/Gu1llaum-3/sshm?tab=readme-ov-file",
+      "host": "github.com",
+      "description": "SSHM is a beautiful command-line tool that transforms how you manage and connect to your SSH hosts. Built with Go and featuring an intuitive TUI inter...",
+      "image": "https://opengraph.githubassets.com/b35e6183fee139723fe407a897ec68d18cd718419fca2c8d8878e227fc6486b5/Gu1llaum-3/sshm",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [],
+      "createdAt": "2025-10-10T11:11:42.451Z",
+      "lastUpdated": "2025-12-02T14:16:00.531Z"
+    },
+    {
+      "id": "9611f5f2-00a9-4730-9f4c-d2f0eb408b13",
+      "title": "Rork | Idea to mobile app in minutes",
+      "url": "https://rork.com/",
+      "host": "rork.com",
+      "description": "Rork builds complete, production-ready mobile apps from your description using AI and React Native",
+      "image": "https://rork.com/og-image.png",
+      "logo": "https://rork.com/favicon.ico",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f",
+        "83f8be6d-1a5b-4d51-8f5b-af1cb6b3ae99"
+      ],
+      "createdAt": "2025-10-27T02:37:23.707Z",
+      "lastUpdated": "2025-12-02T14:15:58.103Z"
+    },
+    {
+      "id": "591d1291-f6d2-4ec2-ab35-fe19156cc8db",
+      "title": "GitHub - cdleon/awesome-terminals: Terminal Emulators",
+      "url": "https://github.com/cdleon/awesome-terminals",
+      "host": "github.com",
+      "description": "Terminal Emulators. Contribute to cdleon/awesome-terminals development by creating an account on GitHub.",
+      "image": "https://opengraph.githubassets.com/ded2e7e0d6f3ff33dde357add8b7c9b79d60f1eb0367dad174cc4eff933b31d5/cdleon/awesome-terminals",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [],
+      "createdAt": "2024-11-26T04:07:49.987Z",
+      "lastUpdated": "2025-12-02T13:36:52.332Z"
+    },
+    {
+      "id": "aea8a89a-a131-4083-b99a-ec4a88dde2e5",
+      "title": "Val Town",
+      "url": "https://www.val.town/",
+      "host": "www.val.town",
+      "description": "Platform for instantly deploying TypeScript automations for GTM and AI",
+      "image": "https://static2.esm.town/assets/val-D6bV1BBB.png",
+      "logo": "https://static2.esm.town/assets/favicon-pr3vG7or.ico",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "7dd36c88-4e79-469b-afd1-06252d1b5044",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed"
+      ],
+      "createdAt": "2025-11-16T14:34:42.643Z",
+      "lastUpdated": "2025-12-02T13:36:52.137Z"
+    }
+  ]
+}
