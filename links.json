@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-12-03T03:10:19.368Z",
-  "count": 92,
+  "generatedAt": "2025-12-03T12:32:18.811Z",
+  "count": 94,
   "links": [
     {
       "id": "2ce57a77-b221-4b33-a147-5de5ef4ed0ac",
@@ -352,6 +352,18 @@
       ],
       "createdAt": "2025-07-05T17:24:10.588Z",
       "lastUpdated": "2025-12-02T14:16:12.924Z"
+    },
+    {
+      "id": "e39273a0-656d-449e-a87c-7057354d37dd",
+      "title": "GitHub - basecamp/fizzy",
+      "url": "https://github.com/basecamp/fizzy",
+      "host": "github.com",
+      "description": "Contribute to basecamp/fizzy development by creating an account on GitHub.",
+      "image": "https://opengraph.githubassets.com/a9dedf17f9de93bff989e402f3f7efd2e1dbfbd9b56d8390369d5f0ccf2f763b/basecamp/fizzy",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [],
+      "createdAt": "2025-12-03T12:03:12.590Z",
+      "lastUpdated": "2025-12-03T12:03:21.045Z"
     },
     {
       "id": "48bf7a08-2c00-4bf4-b00d-e2b8cc3b067d",
@@ -1171,6 +1183,18 @@
       ],
       "createdAt": "2025-08-30T14:38:12.100Z",
       "lastUpdated": "2025-12-02T14:16:04.045Z"
+    },
+    {
+      "id": "e0622e6d-b1da-4b80-98a3-d3257c523ed3",
+      "title": "Fizzy",
+      "url": "https://www.fizzy.do/",
+      "host": "www.fizzy.do",
+      "description": "A refreshing take on cards, columns, and kanban.",
+      "image": "https://www.fizzy.do/assets/images/opengraph.png",
+      "logo": "https://www.fizzy.do/assets/images/favicon.png",
+      "tags": [],
+      "createdAt": "2025-12-03T12:03:44.364Z",
+      "lastUpdated": "2025-12-03T12:03:51.054Z"
     },
     {
       "id": "b3a59de7-db36-4140-a3c0-8a0ef7b043d8",
