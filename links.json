@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-12-05T03:11:49.647Z",
-  "count": 94,
+  "generatedAt": "2025-12-06T03:02:46.438Z",
+  "count": 96,
   "links": [
     {
       "id": "2ce57a77-b221-4b33-a147-5de5ef4ed0ac",
@@ -737,6 +737,23 @@
       "lastUpdated": "2025-12-02T14:15:58.203Z"
     },
     {
+      "id": "67792d4e-f3c4-45bb-9b23-c52d9160a16c",
+      "title": "Chrome DevTools (MCP) for your AI agent | Blog | Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp",
+      "host": "developer.chrome.com",
+      "description": "Public preview for the new Chrome DevTools MCP server, bringing the power of Chrome DevTools to AI coding assistants.",
+      "image": "https://developer.chrome.com/static/blog/chrome-devtools-mcp/image/hero.png",
+      "logo": "https://www.gstatic.com/devrel-devsite/prod/vf25d28f8fa3eb402b276b2981491ec30329502b5e6089118cc6ebe4dff7f7eb7/chrome/images/favicon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed",
+        "602c3be1-4361-42ed-b18d-07c126128280"
+      ],
+      "createdAt": "2025-12-05T19:26:35.439Z",
+      "lastUpdated": "2025-12-05T19:27:34.709Z"
+    },
+    {
       "id": "9a7d780b-8edd-4d55-ac3c-3e6715fe48ee",
       "title": "Dyad | Free, local, open-source AI app builder",
       "url": "https://www.dyad.sh/",
@@ -1234,6 +1251,23 @@
       "tags": [],
       "createdAt": "2025-10-10T11:11:42.451Z",
       "lastUpdated": "2025-12-02T14:16:00.531Z"
+    },
+    {
+      "id": "11ac4d65-5db3-4c53-bc77-192c38b97022",
+      "title": "GitHub - ChromeDevTools/chrome-devtools-mcp: Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp/",
+      "host": "github.com",
+      "description": "Chrome DevTools for coding agents. Contribute to ChromeDevTools/chrome-devtools-mcp development by creating an account on GitHub.",
+      "image": "https://opengraph.githubassets.com/89334c18ee76e67a64da093706dad0a61047148d4e8cd2bf491d2a7349b4abf3/ChromeDevTools/chrome-devtools-mcp",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed",
+        "602c3be1-4361-42ed-b18d-07c126128280"
+      ],
+      "createdAt": "2025-12-05T19:27:08.062Z",
+      "lastUpdated": "2025-12-05T19:27:34.664Z"
     },
     {
       "id": "9611f5f2-00a9-4730-9f4c-d2f0eb408b13",
