@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-12-06T03:02:46.438Z",
-  "count": 96,
+  "generatedAt": "2025-12-07T03:19:32.895Z",
+  "count": 97,
   "links": [
     {
       "id": "2ce57a77-b221-4b33-a147-5de5ef4ed0ac",
@@ -751,7 +751,7 @@
         "602c3be1-4361-42ed-b18d-07c126128280"
       ],
       "createdAt": "2025-12-05T19:26:35.439Z",
-      "lastUpdated": "2025-12-05T19:27:34.709Z"
+      "lastUpdated": "2025-12-06T06:45:33.382Z"
     },
     {
       "id": "9a7d780b-8edd-4d55-ac3c-3e6715fe48ee",
@@ -1202,6 +1202,20 @@
       "lastUpdated": "2025-12-02T14:16:04.045Z"
     },
     {
+      "id": "22367238-c4d0-4951-9df4-bc6215413e69",
+      "title": "Wazuh - Open Source XDR. Open Source SIEM.",
+      "url": "https://wazuh.com/",
+      "host": "wazuh.com",
+      "description": "Wazuh is a free and open source security platform that unifies XDR and SIEM protection for endpoints and cloud workloads.",
+      "image": "https://wazuh.com/uploads/2024/01/wazuh-cover.png",
+      "logo": "https://wazuh.com/wp-content/themes/wazuh-v3/assets/images/favicon.ico?v=1764609722330",
+      "tags": [
+        "136d50d8-995e-4483-995b-7245c7d30496"
+      ],
+      "createdAt": "2025-12-06T10:10:07.613Z",
+      "lastUpdated": "2025-12-06T10:10:40.159Z"
+    },
+    {
       "id": "e0622e6d-b1da-4b80-98a3-d3257c523ed3",
       "title": "Fizzy",
       "url": "https://www.fizzy.do/",
@@ -1267,7 +1281,7 @@
         "602c3be1-4361-42ed-b18d-07c126128280"
       ],
       "createdAt": "2025-12-05T19:27:08.062Z",
-      "lastUpdated": "2025-12-05T19:27:34.664Z"
+      "lastUpdated": "2025-12-06T06:44:53.538Z"
     },
     {
       "id": "9611f5f2-00a9-4730-9f4c-d2f0eb408b13",
