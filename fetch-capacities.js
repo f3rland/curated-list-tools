@@ -27,52 +27,63 @@ async function fetchCapacitiesData(ids) {
 }
 
 async function queryDatabaseEntries(databaseId) {
-  // Using the exact payload structure from the working curl command
-  const queryPayload = {
-    spaceId: "local_userPersonal_id",
-    definition: {
-      operation: "general",
+  const allEntryIds = [];
+  let nextPageToken = null;
+  let hasMore = true;
+
+  while (hasMore) {
+    const queryPayload = {
+      spaceId: "local_userPersonal_id",
       definition: {
-        scope: "structures",
-        structures: [{
-          id: "MediaWebResource",
-          collectionIds: [databaseId],
-          propertyDefinitions: [],
-          databaseTreeInfo: {
+        operation: "general",
+        definition: {
+          scope: "structures",
+          structures: [{
+            id: "MediaWebResource",
             collectionIds: [databaseId],
-            defaultDatabaseId: databaseId
-          }
-        }],
-        tagNames: [],
-        allDatabaseIds: [databaseId, databaseId],
-        allStructureInfos: [{
-          id: "MediaWebResource",
-          propertyDefinitions: []
-        }]
+            propertyDefinitions: [],
+            databaseTreeInfo: {
+              collectionIds: [databaseId],
+              defaultDatabaseId: databaseId
+            }
+          }],
+          tagNames: [],
+          allDatabaseIds: [databaseId, databaseId],
+          allStructureInfos: [{
+            id: "MediaWebResource",
+            propertyDefinitions: []
+          }],
+          nextPageToken: nextPageToken
+        }
+      },
+      inUpdate: true,
+      isPriority: true,
+      permissionScope: {
+        type: "database",
+        databaseId: databaseId
       }
-    },
-    inUpdate: true,
-    isPriority: true,
-    permissionScope: {
-      type: "database",
-      databaseId: databaseId
+    };
+
+    const response = await fetch(QUERY_URL, {
+      method: 'POST',
+      headers: headers,
+      body: JSON.stringify(queryPayload)
+    });
+
+    if (!response.ok) {
+      const errorText = await response.text();
+      throw new Error(`HTTP error! status: ${response.status}`);
     }
-  };
 
-  const response = await fetch(QUERY_URL, {
-    method: 'POST',
-    headers: headers,
-    body: JSON.stringify(queryPayload)
-  });
+    const data = await response.json();
+    const entryIds = data.entryObjects?.map(entry => entry.id) || [];
+    allEntryIds.push(...entryIds);
 
-  if (!response.ok) {
-    const errorText = await response.text();
-    throw new Error(`HTTP error! status: ${response.status}`);
+    nextPageToken = data.nextPageToken;
+    hasMore = !!nextPageToken;
   }
 
-  const data = await response.json();
-  const entryIds = data.entryObjects?.map(entry => entry.id) || [];
-  return entryIds;
+  return allEntryIds;
 }
 
 function extractLinkDetails(components) {
