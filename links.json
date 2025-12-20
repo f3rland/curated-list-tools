@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-20T03:08:35.903Z",
+  "generatedAt": "2025-12-20T06:47:13.888Z",
   "count": 100,
   "links": [
     {
@@ -59,6 +59,24 @@
       ],
       "createdAt": "2025-07-04T23:15:31.996Z",
       "lastUpdated": "2025-12-02T14:16:12.996Z"
+    },
+    {
+      "id": "b75218c3-9e49-4910-8bec-6d3c2d5efaf8",
+      "title": "GitHub - m0n0x41d/quint-code: Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with audit...",
+      "url": "https://github.com/m0n0x41d/quint-code",
+      "host": "github.com",
+      "description": "Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails - m0n0x41...",
+      "image": "https://repository-images.githubusercontent.com/1114011551/cb9673ae-b7d0-41f2-8ad6-1696800953da",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "602c3be1-4361-42ed-b18d-07c126128280",
+        "637c6966-487a-481c-905f-365044730c8f",
+        "17510445-ac20-4435-a860-1b8446265a1a",
+        "4f5d9b4a-6009-4514-b6d5-cdb05b684fed",
+        "a16e2d68-87ec-49ae-b2fd-a41030d5e41d"
+      ],
+      "createdAt": "2025-12-20T05:05:36.131Z",
+      "lastUpdated": "2025-12-20T05:06:19.480Z"
     },
     {
       "id": "b0c40596-7d9a-466c-8f2d-fc1de92a6ae9",
@@ -133,18 +151,6 @@
       "tags": [],
       "createdAt": "2025-06-01T02:07:43.569Z",
       "lastUpdated": "2025-12-02T14:16:14.486Z"
-    },
-    {
-      "id": "34c98691-9dff-420e-84db-8f01b57356b9",
-      "title": "GitHub - k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for ...",
-      "url": "https://github.com/k4m4/terminals-are-sexy",
-      "host": "github.com",
-      "description": "💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. - k4m4/terminals-are-sexy",
-      "image": "https://opengraph.githubassets.com/c16b6f436ac1c1a2d256eea7beb25be90f86434b64668574a048be6097d88425/k4m4/terminals-are-sexy",
-      "logo": "https://github.com/fluidicon.png",
-      "tags": [],
-      "createdAt": "2024-11-26T04:07:00.939Z",
-      "lastUpdated": "2025-12-02T13:36:52.351Z"
     },
     {
       "id": "cf08ef8e-e6cc-41cb-952b-227ad1db6df6",
@@ -488,20 +494,6 @@
       "lastUpdated": "2025-12-02T13:36:52.204Z"
     },
     {
-      "id": "092b9334-fea2-441a-9320-5a77caaa76cb",
-      "title": "Code Search | Grep by Vercel",
-      "url": "https://grep.app/",
-      "host": "grep.app",
-      "description": "Search for code, files, and paths across half a million public GitHub repositories.",
-      "image": "https://grep.app/og.png",
-      "logo": "https://grep.app/static/images/icon-32x32.ae2f571e.png",
-      "tags": [
-        "17510445-ac20-4435-a860-1b8446265a1a"
-      ],
-      "createdAt": "2024-11-24T01:02:46.769Z",
-      "lastUpdated": "2025-12-02T13:36:52.387Z"
-    },
-    {
       "id": "717d36c3-db53-44e8-ba12-c6bdbe96113d",
       "title": "ShareX - The best free and open source screenshot tool for Windows",
       "url": "https://getsharex.com/",
@@ -628,18 +620,6 @@
       "tags": [],
       "createdAt": "2025-09-22T03:54:56.829Z",
       "lastUpdated": "2025-12-02T14:16:02.477Z"
-    },
-    {
-      "id": "86704f62-f3ed-4a07-9585-39716e217d06",
-      "title": "Screenity - The free and privacy-friendly screen recorder",
-      "url": "https://screenity.io/en/",
-      "host": "screenity.io",
-      "description": "Screenity is a screen recorder for Chrome with no limits. Capture, draw, edit videos and more - all with no sign in needed, completely private and open source.",
-      "image": "http://localhost:3000/opengraph-image.png?27e68ad52367f38d",
-      "logo": "https://screenity.io/favicon.ico",
-      "tags": [],
-      "createdAt": "2024-11-16T23:37:13.871Z",
-      "lastUpdated": "2025-12-02T13:36:53.730Z"
     },
     {
       "id": "85c401b3-3e18-474b-8584-88d59fbb0023",
@@ -906,16 +886,18 @@
       "lastUpdated": "2025-12-02T14:16:09.875Z"
     },
     {
-      "id": "21ced88e-126e-4eab-a47f-2956d4ad7e4a",
-      "title": "FlowScraper",
-      "url": "https://flowscraper.com/",
-      "host": "flowscraper.com",
-      "description": "FlowScraper is an intuitive web scraper for easy, customizable data extraction.",
-      "image": "https://flowscraper.com/_next/image?url=https%3A%2F%2Fapi.producthunt.com%2Fwidgets%2Fembed-image%2Fv1%2Ffeatured.svg%3Fpost_id%3D587829%26theme%3Dlight&w=640&q=75",
-      "logo": "https://flowscraper.com/icon.png?9e2de27ecc72ee82",
-      "tags": [],
-      "createdAt": "2024-11-16T23:38:03.396Z",
-      "lastUpdated": "2025-12-02T13:36:52.410Z"
+      "id": "1b1ebe9c-700d-4eca-9b31-29e4f2df3fcb",
+      "title": "GitHub - yz9yt/BugTrace-AI: Intelligent web vulnerability analysis suite leveraging Generative AI for developers, pentesters, and security researchers...",
+      "url": "https://github.com/yz9yt/BugTrace-AI?tab=readme-ov-file#-getting-started",
+      "host": "github.com",
+      "description": "Intelligent web vulnerability analysis suite leveraging Generative AI for developers, pentesters, and security researchers. - yz9yt/BugTrace-AI",
+      "image": "https://repository-images.githubusercontent.com/1039461717/6bb32273-0c7d-4a6e-8ae8-efb78edd15e6",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "637c6966-487a-481c-905f-365044730c8f"
+      ],
+      "createdAt": "2025-12-20T06:43:29.379Z",
+      "lastUpdated": "2025-12-20T06:43:52.579Z"
     },
     {
       "id": "14cc54f5-e060-4fc3-81c9-45e47e599386",
@@ -1206,6 +1188,20 @@
       "lastUpdated": "2025-12-02T14:16:05.799Z"
     },
     {
+      "id": "df9273b4-2f02-4b28-be45-747aa6d22137",
+      "title": "GitHub - ruvnet/claude-flow: 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous work...",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "host": "github.com",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversation...",
+      "image": "https://repository-images.githubusercontent.com/995029641/b9acbe16-0f49-420d-804f-468ba2a73ace",
+      "logo": "https://github.com/fluidicon.png",
+      "tags": [
+        "a16e2d68-87ec-49ae-b2fd-a41030d5e41d"
+      ],
+      "createdAt": "2025-12-20T04:41:43.596Z",
+      "lastUpdated": "2025-12-20T04:42:07.108Z"
+    },
+    {
       "id": "6ecc3592-7b6f-428e-a9f1-2f0d4517d56a",
       "title": "CloudFlare AI Team Just Open-Sourced ‘VibeSDK’ that Lets Anyone Build and Deploy a Full AI Vibe Coding Platform with a Single Click",
       "url": "https://www.marktechpost.com/2025/09/23/cloudflare-ai-team-just-open-sourced-vibesdk-that-lets-anyone-build-and-deploy-a-full-ai-vibe-coding-platform-with-a-single-click/",
@@ -1230,6 +1226,21 @@
       "tags": [],
       "createdAt": "2025-12-02T19:19:05.795Z",
       "lastUpdated": "2025-12-02T19:19:13.140Z"
+    },
+    {
+      "id": "680324e2-7220-4b14-b2a8-52f6eb158bd1",
+      "title": "Agent Skills Marketplace - Claude, Codex & ChatGPT Skills | SkillsMP",
+      "url": "https://skillsmp.com/",
+      "host": "skillsmp.com",
+      "description": "Browse 25,000+ agent skills compatible with Claude Code, Codex CLI and ChatGPT. The open standard SKILL.md format for AI coding assistants.",
+      "image": "https://skillsmp.com/og-image.png",
+      "logo": "https://skillsmp.com/apple-touch-icon.png",
+      "tags": [
+        "602c3be1-4361-42ed-b18d-07c126128280",
+        "a16e2d68-87ec-49ae-b2fd-a41030d5e41d"
+      ],
+      "createdAt": "2025-12-20T04:21:35.274Z",
+      "lastUpdated": "2025-12-20T04:22:27.493Z"
     },
     {
       "id": "64879072-e66b-4b2b-a3a4-7ca3e6b569c9",
